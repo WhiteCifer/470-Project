@@ -1,0 +1,11 @@
+340
+plastic, 898x496
+rottenApple, 1336x117
+rottenApple, 347x857
+rottenApple, 859x694
+scrap, 911x451
+scrap, 379x391
+scrap, 160x758
+medium_scrap, 924x629
+medium_scrap, 325x414
+large_scrap, 660x280
